@@ -6,7 +6,7 @@ const Index = () => {
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={6}>
         <Box boxSize="150px">
-          <Image src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwcm9maWxlJTIwcGljdHVyZXxlbnwwfHx8fDE3MTc2MTg5OTB8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Profile Picture" borderRadius="full" />
+          <Image src="https://images.unsplash.com/photo-1603415526960-f8f8d6e4b1d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtYW58ZW58MHx8fHwxNjE2NjYxMjQw&ixlib=rb-1.2.1&q=80&w=1080" alt="Profile Picture" borderRadius="full" />
         </Box>
         <Heading as="h1" size="2xl">
           Kord Campbell
